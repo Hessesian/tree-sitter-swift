@@ -5,11 +5,11 @@ edition = "2021"
 publish = true
 license = "MIT"
 repository = "https://github.com/Hessesian/kotlin-lsp"
-description = "Thin wrapper: alex-pinkus/tree-sitter-swift grammar compiled against tree-sitter 0.22"
+description = "Thin wrapper: alex-pinkus/tree-sitter-swift grammar compiled against tree-sitter 0.26"
 links   = "tree-sitter-swift"
 
 [dependencies]
-tree-sitter = "0.22"
+tree-sitter = "0.26"
 
 [build-dependencies]
 cc = "1"
