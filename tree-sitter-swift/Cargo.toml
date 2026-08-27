@@ -1,10 +1,10 @@
 [package]
 name    = "tree-sitter-swift-bundled"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 publish = true
 license = "MIT"
-repository = "https://github.com/Hessesian/kotlin-lsp"
+repository = "https://github.com/Hessesian/tree-sitter-swift"
 description = "Thin wrapper: alex-pinkus/tree-sitter-swift grammar compiled against tree-sitter 0.26"
 links   = "tree-sitter-swift"
 
